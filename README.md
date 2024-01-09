@@ -1,0 +1,1 @@
+Aims to develop an efficient spam classifier that can accurately identify and filter spam emails from legitimate ones. The dataset used in this project will consist of a large number of email messages with their corresponding labels (spam/ham).
